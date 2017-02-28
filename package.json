@@ -1,0 +1,19 @@
+{
+  "name": "bagpaotravel",
+  "version": "1.0.0",
+  "description": "Bagpao Travel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plzziie/bagpaotravel.git"
+  },
+  "author": "1-2-9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plzziie/bagpaotravel/issues"
+  },
+  "homepage": "https://github.com/plzziie/bagpaotravel#readme"
+}
